@@ -10,7 +10,7 @@ from datetime import datetime, timedelta
 import requests
 import telebot
 from telebot import types
-try:
+try
 import yt_dlp
 YTDLP_AVAILABLE = True
 except ImportError:
