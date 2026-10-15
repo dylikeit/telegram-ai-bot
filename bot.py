@@ -27,7 +27,8 @@ def run_server():
 threading.Thread(target=run_server, daemon=True).start()
 
 # ================= КОНФИГУРАЦИЯ =================
-TELEGRAM_BOT_TOKEN = "8957041093:AAFLQX5djkK8vb4bK3SO_raTptkrbLZi5-E"
+TELEGRAM_BOT_TOKEN = "8957041093:AAHcH5WOOcE3Y-X58sWVfuPN1Gq7TRMMbQg"
+
 ADMIN_ID = 6517815185
 
 SUB_PRICE = "290 ₽"
